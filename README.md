@@ -1,0 +1,1 @@
+# Numpy-Chi-Square-Distribution
